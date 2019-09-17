@@ -2,7 +2,7 @@
   "name": "reactgame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raxemmohamed.github.io/reactgame/"
+  "homepage": "https://raxemmohamed.github.io/reactgame/",
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
