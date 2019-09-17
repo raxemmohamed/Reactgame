@@ -2,14 +2,11 @@
   "name": "reactgame",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://raxemmohamed.github.io/reactgame/"
   "dependencies": {
-    "axios": "^0.19.0",
-    "esutils": "^2.0.3",
-    "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
-    "styled-components": "^4.3.2"
+    "react-scripts": "^3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
