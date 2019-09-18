@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactgame/static/css/main.dc098c5e.chunk.css",
+    "main.js": "/reactgame/static/js/main.2b45e5d3.chunk.js",
+    "main.js.map": "/reactgame/static/js/main.2b45e5d3.chunk.js.map",
+    "runtime~main.js": "/reactgame/static/js/runtime~main.446b0c0d.js",
+    "runtime~main.js.map": "/reactgame/static/js/runtime~main.446b0c0d.js.map",
+    "static/js/2.92bbc6ac.chunk.js": "/reactgame/static/js/2.92bbc6ac.chunk.js",
+    "static/js/2.92bbc6ac.chunk.js.map": "/reactgame/static/js/2.92bbc6ac.chunk.js.map",
+    "index.html": "/reactgame/index.html",
+    "precache-manifest.c6f3bca248364a888f18183dc059aaf2.js": "/reactgame/precache-manifest.c6f3bca248364a888f18183dc059aaf2.js",
+    "service-worker.js": "/reactgame/service-worker.js",
+    "static/css/main.dc098c5e.chunk.css.map": "/reactgame/static/css/main.dc098c5e.chunk.css.map"
+  }
+}
